@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "シャル・ウィ・ダンス？",
+  "base_artist": "ReoNa",
+  "createdAt": "2025-12-29T01:38:49.937668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シャル・ウィ・ダンス？ - TV Size",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/01_シャル・ウィ・ダンス__-_TV_Size_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シャル・ウィ・ダンス？ (TV Size)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/02_シャル・ウィ・ダンス__(TV_Size)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シャル・ウィ・ダンス？",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/03_シャル・ウィ・ダンス_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シャル・ウィ・ダンス？",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/04_シャル・ウィ・ダンス_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シャル・ウィ・ダンス？(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/05_シャル・ウィ・ダンス_(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シャル・ウィ・ダンス？(TV Size)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/06_シャル・ウィ・ダンス_(TV_Size)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シャル・ウィ・ダンス?",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/07_シャル・ウィ・ダンス_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シャル・ウィ・ダンス？ -TV Ver.-",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/08_シャル・ウィ・ダンス__-TV_Ver.-_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シャル・ウィ・ダンス？",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/09_シャル・ウィ・ダンス_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シャル・ウィ・ダンス？ (TV Size)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/10_シャル・ウィ・ダンス__(TV_Size)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シャル・ウィ・ダンス？ - Shall we Dance",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/11_シャル・ウィ・ダンス__-_Shall_we_Dance_ReoNa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャル・ウィ・ダンス?",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_シャル・ウィ・ダンス_ReoNa.txt"
+    }
+  ]
+}
